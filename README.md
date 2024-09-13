@@ -59,4 +59,4 @@ python fake_news_detection.py
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](MIT License) file for details.
+This project is licensed under the MIT License. See the [LICENSE](License) file for details.
