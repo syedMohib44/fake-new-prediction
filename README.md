@@ -49,10 +49,13 @@ python fake_news_detection.py
 ```
 
 ## Project Structures
+
+```
 .
 ├── fake_news_detection.py   # Main script for detecting fake news
 ├── requirements.txt         # Dependencies for the project
 └── fake_or_real_news.csv    # Example dataset (should be provided)
+```
 
 ## License
 
