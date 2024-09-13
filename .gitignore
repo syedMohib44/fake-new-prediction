@@ -24,6 +24,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+fake_or_real_news.csv
 MANIFEST
 
 # PyInstaller
